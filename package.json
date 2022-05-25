@@ -1,0 +1,28 @@
+{
+  "name": "storeden-sdk",
+  "version": "1.0.0",
+  "description": "Storeden SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlo-sciuto/Storeden-SDK.git"
+  },
+  "keywords": [
+    "Storeden",
+    "SDK"
+  ],
+  "author": "qu1rk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlo-sciuto/Storeden-SDK/issues"
+  },
+  "homepage": "https://github.com/carlo-sciuto/Storeden-SDK#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.4"
+  }
+}
